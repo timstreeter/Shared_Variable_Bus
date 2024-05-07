@@ -17,8 +17,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Examples" Type="Folder">
 			<Item Name="Example 1 - Write.vi" Type="VI" URL="../Source/Examples/Example 1 - Write.vi"/>
+			<Item Name="Example 2 - Read.vi" Type="VI" URL="../Source/Examples/Example 2 - Read.vi"/>
 			<Item Name="SV Test.lvlib" Type="Library" URL="../Source/Examples/SV Test.lvlib"/>
 		</Item>
+		<Item Name="Unit Tests" Type="Folder"/>
 		<Item Name="SharedVariable_Bus.lvclass" Type="LVClass" URL="../Source/SharedVariable_Bus/SharedVariable_Bus.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
