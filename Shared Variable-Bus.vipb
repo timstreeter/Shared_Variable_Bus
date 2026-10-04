@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-05-07 20:48:13" Modified_Date="2026-10-04 10:42:22" Creator="Tim" Comments="" ID="cfb9beea3dbc02e4eb209b6a104a66a0">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-05-07 20:48:13" Modified_Date="2026-10-04 11:23:05" Creator="Tim" Comments="" ID="cdec44621791bb4f3cfe391cd49c0e2c">
   <Library_General_Settings>
     <Package_File_Name>TSA_lib_Shared_Variable_Bus</Package_File_Name>
-    <Library_Version>1.1.0.5</Library_Version>
+    <Library_Version>1.2.1.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -45,7 +45,8 @@ Examples are included</Description>
       <Copyright/>
       <Packager/>
       <URL>https://github.com/timstreeter/Shared_Variable_Bus</URL>
-      <Release_Notes>Minor changes to the property so it can be used for multiple Shared Variable containers</Release_Notes>
+      <Release_Notes>Minor changes to the property so it can be used for multiple Shared Variable containers.
+Added a property to give the option to use the whole vaiiable path as the tag.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -236,7 +237,7 @@ Examples are included</Description>
         <Path>Source\SharedVariable_Bus\Initialise.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6A4FECEB7FD29F6B9E67714C988102A3</GUID>
+      <GUID>816C162C68855B8A69B3E90FDBBDD515</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
